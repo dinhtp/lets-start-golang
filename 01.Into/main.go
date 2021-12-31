@@ -9,6 +9,9 @@ package main
 - Youtube:
     + https://www.youtube.com/watch?v=75lJDVT1h0s
 - Go Documentation:
+    + https://go.dev/ref/spec#Lexical_elements
+    + https://go.dev/ref/spec#Comments
+    + https://go.dev/ref/spec#Keywords
     + https://go.dev/ref/spec#String_literals
  */
 
