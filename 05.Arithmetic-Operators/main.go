@@ -9,6 +9,7 @@ package main
     + https://www.youtube.com/watch?v=UVp7Cz1NMwA
 - Go Documentation:
     + https://go.dev/ref/spec#Operators_and_punctuation
+    + https://go.dev/ref/spec#Arithmetic_operators
 */
 
 func main() {
