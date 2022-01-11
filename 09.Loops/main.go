@@ -4,6 +4,11 @@ import "fmt"
 
 /*
 @Resource
+- Go Tour:
+    + https://go.dev/tour/flowcontrol/1
+    + https://go.dev/tour/flowcontrol/2
+    + https://go.dev/tour/flowcontrol/3
+    + https://go.dev/tour/flowcontrol/4
 - Youtube:
     + https://www.youtube.com/watch?v=QgBYnz6I7p4
 - Go Documentation:

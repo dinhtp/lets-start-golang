@@ -2,10 +2,16 @@ package main
 
 /*
 @Resource
+- Go Tour:
+    + https://go.dev/tour/flowcontrol/5
+    + https://go.dev/tour/flowcontrol/6
+    + https://go.dev/tour/flowcontrol/7
 - Youtube:
     + https://www.youtube.com/watch?v=QgBYnz6I7p4
 - Go Documentation:
     + https://go.dev/ref/spec#If_statements
+- Go By Example:
+    + https://gobyexample.com/if-else
 */
 
 func main() {
