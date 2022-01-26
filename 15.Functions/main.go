@@ -13,11 +13,18 @@ package main
     + https://go.dev/ref/spec#Function_types
     + https://go.dev/ref/spec#Function_declarations
     + https://go.dev/ref/spec#Function_literals
-    + https://go.dev/ref/spec#Built-in_functions
 - Go By Example:
     + https://gobyexample.com/functions
 */
 
 func main() {
+    // TODO: Declare a function that returns a sum of 2 integer
 
+    // TODO: Declare a function that returns a multiplication of 2 integer
+
+    // TODO: Declare an array of integer, assign 10 elements to the array randomly
+
+    // TODO: Declare a function that returns a multiplication of all the elements in the above array
+
+    // TODO: Declare a function that returns a sum of all the elements in the above array
 }

@@ -14,4 +14,6 @@ package main
 
 func main() {
     // TODO: Go Tour Exercise - Fibonacci closure
+
+    // TODO: Declare a variable that represents a function. Execute the function right after declaration
 }
