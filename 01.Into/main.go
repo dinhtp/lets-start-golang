@@ -8,6 +8,7 @@ package main
     + https://go.dev/tour/basics/3
 - Youtube:
     + https://www.youtube.com/watch?v=75lJDVT1h0s
+    + https://www.youtube.com/watch?v=k8LClK96NZ4
 - Go Documentation:
     + https://go.dev/ref/spec#Lexical_elements
     + https://go.dev/ref/spec#Comments
@@ -17,6 +18,8 @@ package main
 
 func main() {
     // TODO: Install Golang
+
+    // TODO: Understand GO Workspace and Runtime
 
     // TODO: Print "Hello World" using print function
 

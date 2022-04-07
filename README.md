@@ -33,4 +33,5 @@ This Golang repository is a combination of multiple open-source learning resourc
 2. [Golang Documentation](https://go.dev/doc)
 3. [Go By Example](https://gobyexample.com)
 4. [Tech with Tim Golang Tutorial](https://www.youtube.com/watch?v=75lJDVT1h0s&list=PLzMcBGfZo4-mtY_SE3HuzQJzuj4VlUG0q)
+5. [Golang Dojo](https://www.youtube.com/channel/UCEXtPiqFrcdzFRKqwazI1NA)
 
