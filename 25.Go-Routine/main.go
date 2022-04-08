@@ -14,7 +14,9 @@ package main
 */
 
 func main() {
+    // TODO: Declare a pair of integer values greater than 0.
+    // Create 2 functions that use go routine to calculate the sum and the multiplication of the integer values above
+
     // TODO: Declare an array of int8.
     // Create 2 functions that use go routine to calculate the sum and the multiplication of all the elements in the slice
-
 }
