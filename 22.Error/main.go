@@ -15,10 +15,13 @@ package main
     + https://go.dev/ref/spec#Run_time_panics
 - Go By Example:
     + https://gobyexample.com/errors
+    + https://gobyexample.com/panic
 */
 
 func main() {
     // TODO: Declare a custom error type of your choice that implement the "Error" method
 
     // TODO: Go Tour Exercise - Errors
+
+    // TODO: Execute the built in "panic" to view the stack trace.
 }
