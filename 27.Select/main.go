@@ -15,5 +15,9 @@ package main
 */
 
 func main() {
-    //
+    // TODO: Declare 2 channels of type string. Use select statement to print out the result from either one of the channels, but not at the same time
+    // The printed out value should be from either one of the channels
+
+    // TODO: Use select statement to receive data from channel continuously and print out the value.
+    // The data type and channel type can be of your choice
 }

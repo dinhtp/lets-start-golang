@@ -4,13 +4,13 @@
 ## What to do
 First thing first, let's learn some coding with Golang. \
 This repository is a complete beginner tutorial of Golang which helps you learn the basic 
-The repository is divided into multiple sub directories, each directory will represent a tutorial of Golang.
-Each tutorial is provided with a number of different learning resources to cover lesson as much as possible.
+The repository divided into multiple sub directories, each directory will represent a tutorial of Golang.
+Each tutorial provided with a number of different learning resources to cover lesson as much as possible.
 There will be exercises with in each tutorial where you can practice coding and test out the result. 
 
 ## How to use
 ### Learning resource
-The learning resource of each tutorial is provided in the comment block which denoted by the **@Resource** notation
+The learning resource of each tutorial provided in the comment block which denoted by the **@Resource** notation
 As the first rule of thumb, you should always read from the top to the bottom. The last resource items will cover a wider 
 range of knowledge from the topic that may require basic understanding from the first items.
 
