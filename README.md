@@ -3,7 +3,7 @@
 
 ## What to do
 First thing first, let's learn some coding with Golang. \
-This repository is a complete beginner tutorial of Golang which helps you learn the basic 
+This repository is a complete beginner tutorial which helps you learn the basic concepts of Golang.
 The repository divided into multiple sub directories, each directory will represent a tutorial of Golang.
 Each tutorial provided with a number of different learning resources to cover lesson as much as possible.
 There will be exercises with in each tutorial where you can practice coding and test out the result. 
@@ -27,7 +27,7 @@ The terminal will appear somewhat as follows:
 ```
 
 ### What's next
-You can proceed with the next repository [Let's Start Docker](https://github.com/dinhtp/lets-go-company)
+You can proceed with the next repository [Let's Start Docker](https://github.com/dinhtp/lets-start-docker)
 
 
 # Learning Resource Credit
